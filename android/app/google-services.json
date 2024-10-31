@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998438804880",
+    "project_id": "math-tomato-game-3a2be",
+    "storage_bucket": "math-tomato-game-3a2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998438804880:android:e4c7b7e470da125d1c6715",
+        "android_client_info": {
+          "package_name": "com.example.math_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998438804880-4458thk4qeg7tobngo1qc51schbotk3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.math_game",
+            "certificate_hash": "87235e2f5a86b7d5246bcb2b2932f3d9592f8f35"
+          }
+        },
+        {
+          "client_id": "998438804880-mta500kfm7gjb146b8cldjtt24kvq9tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHU8Ghy9LPi9lp93nk8SSEeBfpAi2lBqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998438804880-mta500kfm7gjb146b8cldjtt24kvq9tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
